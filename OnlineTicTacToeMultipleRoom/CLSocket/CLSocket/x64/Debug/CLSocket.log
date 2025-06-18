@@ -1,0 +1,3 @@
+﻿  ClMain.cpp
+D:\C++\OnlineTicTacToe - Kopie\CLSocket\CLSocket\ClMain.cpp(30,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  CLSocket.vcxproj -> D:\C++\OnlineTicTacToe - Kopie\CLSocket\x64\Debug\CLSocket.exe

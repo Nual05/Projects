@@ -1,0 +1,4 @@
+﻿  SrvMain.cpp
+D:\C++\OnlineTicTacToeMultipleRoom\SrvSocket\SrvSocket\SrvMain.cpp(221,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\C++\OnlineTicTacToeMultipleRoom\SrvSocket\SrvSocket\SrvMain.cpp(358,15): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
+  SrvSocket.vcxproj -> D:\C++\OnlineTicTacToeMultipleRoom\SrvSocket\x64\Debug\SrvSocket.exe

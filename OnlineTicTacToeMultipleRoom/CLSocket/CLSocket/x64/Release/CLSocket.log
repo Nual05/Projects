@@ -1,0 +1,7 @@
+﻿  ClMain.cpp
+D:\C++\OnlineTicTacToeMultipleRoom\CLSocket\CLSocket\ClMain.cpp(30,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 176 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CLSocket.vcxproj -> D:\C++\OnlineTicTacToeMultipleRoom\CLSocket\x64\Release\CLSocket.exe
