@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\C++\KeyLogger\KeyLogger\main.cpp(76,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  KeyLogger.vcxproj -> D:\C++\KeyLogger\x64\Debug\KeyLogger.exe
