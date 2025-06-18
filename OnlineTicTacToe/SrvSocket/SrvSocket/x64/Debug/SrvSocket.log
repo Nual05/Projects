@@ -1,0 +1,5 @@
+﻿  SrvMain.cpp
+D:\C++\OnlineTicTacToe\SrvSocket\SrvSocket\SrvMain.cpp(199,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\C++\OnlineTicTacToe\SrvSocket\SrvSocket\SrvMain.cpp(225,21): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+D:\C++\OnlineTicTacToe\SrvSocket\SrvSocket\SrvMain.cpp(309,15): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
+  SrvSocket.vcxproj -> D:\C++\OnlineTicTacToe\SrvSocket\x64\Debug\SrvSocket.exe
