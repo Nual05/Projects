@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\C++\HACKER\ReverseShell\ServerShell\ServerShell\Source.cpp(73,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ServerShell.vcxproj -> D:\C++\HACKER\ReverseShell\ServerShell\x64\Debug\ServerShell.exe
